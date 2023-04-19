@@ -1,0 +1,3 @@
+Name: Nicolas Steve,s
+Age: 24
+Favorite Color: Green
